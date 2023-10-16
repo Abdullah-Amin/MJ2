@@ -2,7 +2,9 @@ package com.example.mj2.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.annotation.SuppressLint;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -58,6 +60,12 @@ public class RegisterActivity extends AppCompatActivity {
 
         auth.createUserWithEmailAndPassword(email, password)
                 .addOnSuccessListener(authResult -> {
+                    SharedPreferences preferences = getSharedPreferences("user", MODE_PRIVATE);
+                    SharedPreferences.Editor editor = preferences.edit();
+                    editor.putString("name", name);
+                    editor.putString("email", email);
+                    editor.putString("phone", phone);
+                    editor.commit();
                     Log.i(TAG, "abdo: success");
                     startActivity(new Intent(RegisterActivity.this, MainActivity.class));
                     finish();

@@ -43,7 +43,6 @@ public class UserAccountActivity extends AppCompatActivity {
         phoneET.setText(phone);
 
         Firebase firebase = Firebase.INSTANCE;
-        firebase.
     }
 
     @SuppressLint("ResourceAsColor")

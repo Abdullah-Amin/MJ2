@@ -6,6 +6,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.graphics.Color;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
@@ -17,6 +18,7 @@ import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.android.material.button.MaterialButton;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
+import com.google.firebase.ktx.Firebase;
 
 public class UserAccountActivity extends AppCompatActivity {
 
@@ -39,24 +41,33 @@ public class UserAccountActivity extends AppCompatActivity {
         usernameET.setText(name);
         emailET.setText(email);
         phoneET.setText(phone);
+
+        Firebase firebase = Firebase.INSTANCE;
+        firebase.
     }
 
     @SuppressLint("ResourceAsColor")
     public void changePhoneNumber(View view) {
         phoneET.setEnabled(true);
         phoneET.setBackgroundColor(R.color.second_color);
+
+        MaterialButton btn = findViewById(R.id.savePhoneNumber);
+        view.setVisibility(View.GONE);
+        btn.setVisibility(View.VISIBLE);
+    }
+
+    public void savePhoneNumber(View view) {
+        phoneET.setEnabled(false);
+        phoneET.setBackgroundColor(Color.WHITE);
+        String phone = phoneET.getText().toString().trim();
+        SharedPreferences preferences = getSharedPreferences("user", MODE_PRIVATE);
+        SharedPreferences.Editor editor = preferences.edit();
+        editor.putString("phone", phone);
+        editor.apply();
+
         MaterialButton btn = findViewById(R.id.changePhoneNumber);
-        btn.setText("Save new phone number");
-        btn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                String phone = phoneET.getText().toString().trim();
-                SharedPreferences preferences = getSharedPreferences("user", MODE_PRIVATE);
-                SharedPreferences.Editor editor = preferences.edit();
-                editor.putString("phone", phone);
-                editor.apply();
-            }
-        });
+        view.setVisibility(View.GONE);
+        btn.setVisibility(View.VISIBLE);
     }
 
     public void deleteAccount(View view) {
@@ -75,4 +86,5 @@ public class UserAccountActivity extends AppCompatActivity {
             }
         });
     }
+
 }

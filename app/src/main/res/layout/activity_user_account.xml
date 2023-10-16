@@ -92,7 +92,7 @@
     <com.google.android.material.button.MaterialButton
         android:id="@+id/changePhoneNumber"
         android:onClick="changePhoneNumber"
-        android:layout_width="@dimen/_200sdp"
+        android:layout_width="@dimen/_250sdp"
         android:layout_height="wrap_content"
         android:backgroundTint="@color/second_color"
         app:cornerRadius="@dimen/_18sdp"
@@ -104,9 +104,24 @@
         android:textColor="@color/white"/>
 
     <com.google.android.material.button.MaterialButton
+        android:id="@+id/savePhoneNumber"
+        android:onClick="savePhoneNumber"
+        android:visibility="gone"
+        android:layout_width="@dimen/_250sdp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/second_color"
+        app:cornerRadius="@dimen/_18sdp"
+        android:layout_marginHorizontal="@dimen/_10sdp"
+        android:layout_marginTop="@dimen/_16sdp"
+        android:paddingVertical="@dimen/_10sdp"
+        android:text="save Phone Number"
+        android:textSize="@dimen/_12ssp"
+        android:textColor="@color/white"/>
+
+    <com.google.android.material.button.MaterialButton
         android:id="@+id/deleteAccount"
         android:onClick="deleteAccount"
-        android:layout_width="@dimen/_200sdp"
+        android:layout_width="@dimen/_250sdp"
         android:layout_height="wrap_content"
         android:backgroundTint="@color/second_color"
         app:cornerRadius="@dimen/_18sdp"

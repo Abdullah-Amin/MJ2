@@ -4,10 +4,38 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.LoginActivity"
     android:orientation="vertical"
     android:gravity="center"
-    android:background="@drawable/primary_gradient">
+    android:background="@drawable/primary_gradient"
+    tools:context=".ui.RegisterActivity">
+
+    <EditText
+        android:id="@+id/nameET"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/white"
+        android:paddingStart="@dimen/_4sdp"
+        android:drawableStart="@drawable/ic_name"
+        android:drawablePadding="@dimen/_8sdp"
+        android:inputType="textPersonName"
+        android:hint="Name"
+        android:textColorHint="@color/white"
+        android:layout_marginHorizontal="@dimen/_10sdp"
+        android:layout_marginVertical="@dimen/_2sdp"/>
+
+    <EditText
+        android:id="@+id/phoneET"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/white"
+        android:paddingStart="@dimen/_4sdp"
+        android:drawableStart="@drawable/ic_phone"
+        android:drawablePadding="@dimen/_8sdp"
+        android:inputType="textEmailAddress"
+        android:hint="Phone"
+        android:textColorHint="@color/white"
+        android:layout_marginHorizontal="@dimen/_10sdp"
+        android:layout_marginVertical="@dimen/_2sdp"/>
 
     <EditText
         android:id="@+id/emailET"
@@ -38,8 +66,8 @@
         android:layout_marginVertical="@dimen/_2sdp"/>
 
     <com.google.android.material.button.MaterialButton
-        android:id="@+id/loginBtn"
-        android:onClick="login"
+        android:id="@+id/registerBtn"
+        android:onClick="register"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:backgroundTint="@color/white"
@@ -47,18 +75,22 @@
         android:layout_marginHorizontal="@dimen/_10sdp"
         android:layout_marginTop="@dimen/_16sdp"
         android:paddingVertical="@dimen/_10sdp"
-        android:text="login"
+        android:text="register"
         android:textSize="@dimen/_12ssp"
         android:textColor="@color/second_color"/>
 
-    <TextView
-        android:id="@+id/registerTV"
-        android:onClick="goToRegisterPage"
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/backToLoginBtn"
+        android:onClick="backToLoginPage"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginVertical="@dimen/_12sdp"
-        android:text="New User? Register"
-        android:textSize="@dimen/_16ssp"
-        android:gravity="center"/>
+        android:backgroundTint="@color/white"
+        app:cornerRadius="@dimen/_18sdp"
+        android:layout_marginHorizontal="@dimen/_10sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:paddingVertical="@dimen/_10sdp"
+        android:text="back to login page"
+        android:textSize="@dimen/_12ssp"
+        android:textColor="@color/second_color"/>
 
 </LinearLayout>

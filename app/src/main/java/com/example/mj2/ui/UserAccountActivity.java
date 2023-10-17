@@ -36,7 +36,7 @@ public class UserAccountActivity extends AppCompatActivity {
         SharedPreferences preferences = getSharedPreferences("user", MODE_PRIVATE);
         String name = preferences.getString("name", "sara ali");
         String email = preferences.getString("email", "sara@job.com");
-        String phone = preferences.getString("phone", "0102345676");
+        String phone = preferences.getString("phone", "01023456769");
 
         usernameET.setText(name);
         emailET.setText(email);

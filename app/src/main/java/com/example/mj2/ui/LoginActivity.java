@@ -41,7 +41,7 @@ public class LoginActivity extends AppCompatActivity {
 
     public void login(View view) {
         counter++;
-        if (counter > 2) {
+        if (counter == 2) {
             view.setEnabled(false);
             MaterialButton btn = findViewById(R.id.loginBtn);
             btn.setTextColor(Color.GRAY);

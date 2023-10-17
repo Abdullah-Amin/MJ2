@@ -99,7 +99,7 @@
         android:layout_marginHorizontal="@dimen/_10sdp"
         android:layout_marginTop="@dimen/_16sdp"
         android:paddingVertical="@dimen/_10sdp"
-        android:text="change Phone Number"
+        android:text="Edit info"
         android:textSize="@dimen/_12ssp"
         android:textColor="@color/white"/>
 
@@ -114,7 +114,7 @@
         android:layout_marginHorizontal="@dimen/_10sdp"
         android:layout_marginTop="@dimen/_16sdp"
         android:paddingVertical="@dimen/_10sdp"
-        android:text="save Phone Number"
+        android:text="save info"
         android:textSize="@dimen/_12ssp"
         android:textColor="@color/white"/>
 

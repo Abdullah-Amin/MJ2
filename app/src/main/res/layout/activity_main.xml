@@ -23,7 +23,7 @@
     <com.google.android.material.button.MaterialButton
         android:id="@+id/registerBtn"
         android:onClick="goToUserAccount"
-        android:layout_width="wrap_content"
+        android:layout_width="@dimen/_180sdp"
         android:layout_height="wrap_content"
         android:backgroundTint="@color/second_color"
         app:cornerRadius="@dimen/_18sdp"
@@ -31,6 +31,20 @@
         android:layout_marginTop="@dimen/_16sdp"
         android:paddingVertical="@dimen/_10sdp"
         android:text="go to user account"
+        android:textSize="@dimen/_12ssp"
+        android:textColor="@color/white"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/logout"
+        android:onClick="logout"
+        android:layout_width="@dimen/_180sdp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#958386"
+        app:cornerRadius="@dimen/_18sdp"
+        android:layout_marginHorizontal="@dimen/_10sdp"
+        android:layout_marginTop="@dimen/_16sdp"
+        android:paddingVertical="@dimen/_10sdp"
+        android:text="sign out"
         android:textSize="@dimen/_12ssp"
         android:textColor="@color/white"/>
 

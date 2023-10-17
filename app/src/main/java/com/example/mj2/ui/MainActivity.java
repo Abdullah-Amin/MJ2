@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 
 import com.example.mj2.R;
+import com.google.firebase.auth.FirebaseAuth;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -18,5 +19,11 @@ public class MainActivity extends AppCompatActivity {
 
     public void goToUserAccount(View view) {
         startActivity(new Intent(this, UserAccountActivity.class));
+    }
+
+    public void logout(View view) {
+        FirebaseAuth.getInstance().signOut();
+        startActivity(new Intent(this, LoginActivity.class));
+        finish();
     }
 }

@@ -1,0 +1,1522 @@
+[
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_share.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wes3_5.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_wes3_5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bad3_3.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_bad3_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_water.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_water.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_stairss.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_stairss.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_browser.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_browser.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fazah.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_fazah.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sabah_2.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sabah_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bald3_8.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_bald3_8.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_linkedin.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_linkedin.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_youtubeok.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_youtubeok.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_icon.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tyar5_5.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_tyar5_5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_islam.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_islam.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_study1.jpg.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\drawable\\study1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_stairss.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_stairss.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sabah19.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sabah19.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_linkedin.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_linkedin.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_backok.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_backok.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_browser.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_browser.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_twitterok.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_twitterok.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\anim_scale1.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\anim\\scale1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_moon.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\moon.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_habak9_7.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_habak9_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pray.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_pray.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_people.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\drawable\\people.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_gomasged.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_gomasged.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_backok.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_backok.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_islamic.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\drawable\\islamic.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_maryd4_6.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_maryd4_6.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_back.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu1.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\menu\\menu1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sabah7.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sabah7.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_facebook.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_facebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ertaqy.jpg.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\drawable\\ertaqy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_back.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sabah18.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sabah18.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_waswasa.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_waswasa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_elcom.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\drawable\\elcom.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sleep13.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sleep13.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_whatsapp.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_whatsapp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_takbeer2_4.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_takbeer2_4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_share.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_prayo.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_prayo.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_youtubeok.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_youtubeok.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_phone.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hag1.jpg.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\drawable\\hag1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hasad.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\drawable\\hasad.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sabah17.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sabah17.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sabah24.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sabah24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_share.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_contact_new.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_contact_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about_us.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_kada7_7.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_kada7_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_werd1_9.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_werd1_9.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_werd2_9.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_werd2_9.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sabah_1.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sabah_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_next.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_youtubeok.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_youtubeok.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_prayo.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_prayo.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sabah8.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sabah8.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_icon.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sabah25.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sabah25.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_next.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_whatsapp.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_whatsapp.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrows.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\drawable\\arrows.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_study3.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_study3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_share.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_mosque.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_mosque.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sabah_4.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sabah_4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_alam1_6.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_alam1_6.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_arafa5_4.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_arafa5_4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_motzaweg14_7.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_motzaweg14_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_rafarokoa.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_rafarokoa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tazya11_6.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_tazya11_6.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sleep12.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sleep12.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_moon.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\moon.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sogod.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sogod.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_rokoa.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_rokoa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_asna9_6.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_asna9_6.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wakoof4_4.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_wakoof4_4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ats12_7.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_ats12_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sam11_7.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sam11_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_important.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_important.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_backok.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_backok.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_deal1.jpg.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\drawable\\deal1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_return.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_return.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_youtubeok.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_youtubeok.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mark5_8.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_mark5_8.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_start.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mos9_8.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_mos9_8.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_return.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_return.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_islam.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_islam.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_facebookok.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_facebookok.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_aftersala1.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_aftersala1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sana20_7.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sana20_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_facebookok.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_facebookok.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_islam.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_islam.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_whatsapp.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_whatsapp.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_welcome.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sleep3.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sleep3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_background.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sabah14.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sabah14.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sabah_5.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sabah_5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_moon.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\moon.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_islam.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_islam.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_return.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_return.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sleeo10.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sleeo10.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_galsa.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_galsa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_travel1.jpg.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\drawable\\travel1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_werd3_9.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_werd3_9.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_question.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_question.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_browser.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_browser.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_islam.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_islam.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_twitterok.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_twitterok.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sabah21.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sabah21.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_patient.jpg.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\drawable\\patient.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_background.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_yaes6_6.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_yaes6_6.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sleep9.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sleep9.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_pray.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_pray.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_phone.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_pray.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_pray.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sabah13.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sabah13.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sleep4.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sleep4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_talken7_6.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_talken7_6.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_noom3.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_noom3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_azan.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_azan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_linkedin.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_linkedin.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_moon.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\moon.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sagdatelawa.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sagdatelawa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_travell.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_travell.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_stairss.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_stairss.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pray.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_pray.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_question.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_question.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_stairs.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_stairs.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_share.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mashar6_4.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_mashar6_4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_icon.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_return.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_return.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_mosque.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_mosque.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_moon.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\moon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_linkedin.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_linkedin.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_study.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_study.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_korogmasged.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_korogmasged.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_konot.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_konot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_next.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_good.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\drawable\\good.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_prayer.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\drawable\\prayer.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sar8_5.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sar8_5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sabah20.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sabah20.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_twitterok.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_twitterok.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_mosque.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_mosque.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_monument.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\drawable\\monument.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mosafer6_8.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_mosafer6_8.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_islam.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_islam.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_browser.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_browser.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_hogg.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_hogg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_facebook.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_magles17_7.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_magles17_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_facebook.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_next.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_question.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_question.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_b.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_b.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_raga11_8.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_raga11_8.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_linkedin.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_linkedin.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_azkar.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_azkar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sabah9.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sabah9.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_back.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_azkar_sabah1.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_azkar_sabah1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sabah26.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sabah26.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_end1_3.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_end1_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_beforesala.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_beforesala.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_background.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zekr2.jpg.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\drawable\\zekr2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_yaoz3_6.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_yaoz3_6.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_kar9_5.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_kar9_5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_moq7_8.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_moq7_8.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_food.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_zyara2_6.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_zyara2_6.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_endfazah6_5.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_endfazah6_5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tak8_8.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_tak8_8.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_deal.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_deal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sleep6.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sleep6.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_endahl6_3.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_endahl6_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sabah11.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sabah11.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_facebook.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sab3_7.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sab3_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_adw11_5.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_adw11_5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_linkedin.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_linkedin.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_kabl2_3.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_kabl2_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_nazl10_8.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_nazl10_8.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_prayo.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_prayo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_twitterok.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_twitterok.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_study8.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_study8.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_outline.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\drawable\\outline.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_youtubeok.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_youtubeok.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_back.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_islam.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_islam.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tareed5_3.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_tareed5_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_noom4.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_noom4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_yosr7_5.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_yosr7_5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sabah12.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sabah12.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_after_wetr.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_after_wetr.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_next.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_stairss.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_stairss.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sleep5.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sleep5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sala1.jpg.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\drawable\\sala1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_pray.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_pray.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_stairs.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_stairs.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eating.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\drawable\\eating.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_share.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_study7.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_study7.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_background.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_moon1.jpg.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\drawable\\moon1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_kadab15_7.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_kadab15_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_pray.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_pray.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_youtubeok.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_youtubeok.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_whatsapp.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_whatsapp.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_return.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_return.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tashahod.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_tashahod.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_back.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mawlod10_7.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_mawlod10_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_kadal1_5.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_kadal1_5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_icon.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_food1.jpg.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\drawable\\food1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_question.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_question.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_study6.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_study6.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sleep8.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sleep8.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_prayo.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_prayo.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_hasad.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_hasad.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_lesaheb4_3.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_lesaheb4_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_icon.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_madh2_7.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_madh2_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_next.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_deal.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\drawable\\deal.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_whatsapp.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_whatsapp.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_saf2_8__text.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_saf2_8__text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_return.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_return.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_study4_10.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_study4_10.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_return.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_return.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_background.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_kayf1_4.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_kayf1_4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mosyba2_5.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_mosyba2_5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_study2_10.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_study2_10.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_stairss.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_stairss.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_background.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_moon.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\moon.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_souq4_8.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_souq4_8.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_eza1_7.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_eza1_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_noom2.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_noom2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_barak6_7.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_barak6_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_stairs.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_stairs.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_food.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\drawable\\food.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_zolm12_5.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_zolm12_5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_browser.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_browser.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sleep11.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sleep11.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ain2.jpg.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\drawable\\ain2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edkal12_6.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_edkal12_6.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_prayo.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_prayo.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sabah15.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sabah15.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sleep2.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sleep2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mobtala16_7.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_mobtala16_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_prayo.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_prayo.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_browser.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_browser.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_stairs.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_stairs.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_study5.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_study5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_facebook.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_facebook.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_stairss.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_stairss.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_islam.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\drawable\\islam.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_salam4_7.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_salam4_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_background.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dafn13_6.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_dafn13_6.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_icon.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_noom1.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_noom1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_egmad8_6.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_egmad8_6.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sabah22.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sabah22.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_facebookok.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_facebookok.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_whatsapp.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_whatsapp.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_mosque.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_mosque.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_rokn3_4.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_rokn3_4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_prayo.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_prayo.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_twitterok.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_twitterok.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_twitterok.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_twitterok.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_twitterok.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_twitterok.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_share.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_whatsapp.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_whatsapp.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fart10_6.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_fart10_6.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_kafer5_7.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_kafer5_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_backok.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_backok.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_facebookok.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_facebookok.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_facebookok.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_facebookok.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_rakb1_8.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_rakb1_8.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_facebookok.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_facebookok.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_backok.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_backok.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_takalap.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_takalap.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_mosque.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_mosque.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_camera.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dokolmasged.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_dokolmasged.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smile1.jpg.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\drawable\\smile1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_aftersala2.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_aftersala2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_back.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_werd4_9.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_werd4_9.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\anim_rotation1.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\anim\\rotation1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_karb14_5.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_karb14_5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sherk4_5.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sherk4_5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_gafara19_7.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_gafara19_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\anim_animi1.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\anim\\animi1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_stairs.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_stairs.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_youtubeok.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_youtubeok.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_linkedin.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_linkedin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_backok.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_backok.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\anim_tranlate1.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\anim\\tranlate1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_stairs.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_stairs.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_question.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_question.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_stairss.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_stairss.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_patient.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_patient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flights.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\drawable\\flights.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_moon.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\moon.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_aftersala3.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_aftersala3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ramy7_4.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_ramy7_4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_next.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_kaf10_5.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_kaf10_5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_virus.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\drawable\\virus.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_lamyaftor7_3.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_lamyaftor7_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_kfara18_7.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_kfara18_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_facebookok.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_facebookok.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_stairs.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_stairs.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_malah8_7.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_malah8_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_kafer13_7.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_kafer13_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_naby.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_naby.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_study1_10.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_study1_10.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_morning.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_morning.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_after_salam.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_after_salam.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sabah16.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sabah16.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sleep1.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sleep1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_zmaryd5_6.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_zmaryd5_6.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_back.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_mosque.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_mosque.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_question.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_question.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_backok.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_backok.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_smile.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_smile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sabah6.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sabah6.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ham15_5.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_ham15_5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sabah10.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sabah10.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_question.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_question.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_zabh8_4.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_zabh8_4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sabah23.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sabah23.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_browser.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_browser.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_facebook.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sabah_3.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sabah_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sleep7.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_sleep7.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_soltan13_5.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\layout\\activity_soltan13_5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smileys.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\drawable\\smileys.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_icon.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_mosque.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_mosque.png"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_pray.png.flat",
+        "source": "C:\\Users\\Abdullah Amin\\Downloads\\mm\\--master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_pray.png"
+    }
+]

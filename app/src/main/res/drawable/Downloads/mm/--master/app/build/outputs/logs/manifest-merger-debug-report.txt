@@ -1,0 +1,1476 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:2:1-691:12
+INJECTED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:2:1-691:12
+INJECTED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:2:1-691:12
+INJECTED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:2:1-691:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\ea88890b09526096266c9c16859169ae\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\cb3ee0668a2ccffbec6ced598c9d8e79\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\749c232115217351c91aa74c2d78bd12\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\936ebbfdaa20b5d2513f45ef5b9bca61\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\184c984507bae6d54ce89a1b39416d6f\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\3ef529e7659a6dad5bca87ebe763f091\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\1a7929ea79abc37513892fc022245291\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\b17763bf98edbd30968b64ebcbc4e5fe\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\ddc93cc7f56536b57b7e686942c96acd\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\6142cc34fd4a481411a6571034684118\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\1e40e6425c76c059bfb4b3234ce21463\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\da95e0dd41fd0c634661df2a0f122634\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\2f8d1ed6722dd8ec027727976d721a74\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\f4e6f5083e31829c93f71953ffc4081f\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\27eaecc8cd0861d0e6bd94d2c9649bb6\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\209f2f473926ace7290783e8147519fd\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\9f18933e18a2883724525a09a9c7e2bc\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\2e208f9141563db79bd49ce93534ac4d\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\1e517e060e22e5750a896c56d451ab07\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\8909bb9e572b85a1aed6ea82735a7b78\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\2541981a540b257b4ca2e11e0b5e803f\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:2:1-691:12
+INJECTED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:2:1-691:12
+INJECTED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:2:1-691:12
+	package
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:2:1-691:12
+		INJECTED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:2:1-691:12
+		INJECTED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:5:5-689:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\cb3ee0668a2ccffbec6ced598c9d8e79\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\cb3ee0668a2ccffbec6ced598c9d8e79\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\da95e0dd41fd0c634661df2a0f122634\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\da95e0dd41fd0c634661df2a0f122634\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\f4e6f5083e31829c93f71953ffc4081f\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\f4e6f5083e31829c93f71953ffc4081f\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\da95e0dd41fd0c634661df2a0f122634\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:9:9-48
+	android:icon
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.azkarelmoslem.important
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:12:9-14:81
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:13:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:14:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:12:19-44
+activity#com.example.azkarelmoslem.ContactNew
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:15:9-17:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:16:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:17:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:15:19-45
+activity#com.example.azkarelmoslem.study8
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:18:9-21:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:20:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:21:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:19:13-35
+activity#com.example.azkarelmoslem.study7
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:22:9-25:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:24:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:25:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:23:13-35
+activity#com.example.azkarelmoslem.study6
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:26:9-29:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:28:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:27:13-35
+activity#com.example.azkarelmoslem.study5
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:30:9-33:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:32:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:33:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:31:13-35
+activity#com.example.azkarelmoslem.study4_10
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:34:9-37:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:36:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:35:13-38
+activity#com.example.azkarelmoslem.study3
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:38:9-41:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:40:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:41:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:39:13-35
+activity#com.example.azkarelmoslem.study2_10
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:42:9-45:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:44:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:45:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:43:13-38
+activity#com.example.azkarelmoslem.study1_10
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:46:9-49:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:48:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:49:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:47:13-38
+activity#com.example.azkarelmoslem.study
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:50:9-53:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:52:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:53:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:51:13-34
+activity#com.example.azkarelmoslem.werd4_9
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:54:9-57:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:56:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:57:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:55:13-36
+activity#com.example.azkarelmoslem.werd3_9
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:58:9-61:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:60:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:61:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:59:13-36
+activity#com.example.azkarelmoslem.werd2_9
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:62:9-65:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:64:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:65:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:63:13-36
+activity#com.example.azkarelmoslem.werd1_9
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:66:9-69:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:68:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:69:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:67:13-36
+activity#com.example.azkarelmoslem.raga11_8
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:70:9-73:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:72:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:73:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:71:13-37
+activity#com.example.azkarelmoslem.nazl10_8
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:74:9-77:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:76:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:77:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:75:13-37
+activity#com.example.azkarelmoslem.mos9_8
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:78:9-81:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:80:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:81:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:79:13-35
+activity#com.example.azkarelmoslem.tak8_8
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:82:9-85:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:84:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:85:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:83:13-35
+activity#com.example.azkarelmoslem.moq7_8
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:86:9-89:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:88:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:89:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:87:13-35
+activity#com.example.azkarelmoslem.mosafer6_8
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:90:9-93:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:92:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:93:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:91:13-39
+activity#com.example.azkarelmoslem.mark5_8
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:94:9-97:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:96:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:97:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:95:13-36
+activity#com.example.azkarelmoslem.souq4_8
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:98:9-101:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:100:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:101:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:99:13-36
+activity#com.example.azkarelmoslem.bald3_8
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:102:9-105:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:104:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:105:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:103:13-36
+activity#com.example.azkarelmoslem.saf2_8_Text
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:106:9-109:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:108:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:109:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:107:13-40
+activity#com.example.azkarelmoslem.rakb1_8
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:110:9-113:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:112:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:113:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:111:13-36
+activity#com.example.azkarelmoslem.sana20_7
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:114:9-117:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:116:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:117:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:115:13-37
+activity#com.example.azkarelmoslem.gafara19_7
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:118:9-121:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:120:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:121:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:119:13-39
+activity#com.example.azkarelmoslem.kfara18_7
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:122:9-125:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:124:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:125:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:123:13-38
+activity#com.example.azkarelmoslem.magles17_7
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:126:9-129:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:128:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:129:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:127:13-39
+activity#com.example.azkarelmoslem.mobtala16_7
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:130:9-133:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:132:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:133:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:131:13-40
+activity#com.example.azkarelmoslem.kadab15_7
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:134:9-137:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:136:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:137:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:135:13-38
+activity#com.example.azkarelmoslem.motzaweg14_7
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:138:9-141:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:140:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:141:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:139:13-41
+activity#com.example.azkarelmoslem.kafer13_7
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:142:9-145:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:144:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:145:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:143:13-38
+activity#com.example.azkarelmoslem.ats12_7
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:146:9-149:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:148:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:149:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:147:13-36
+activity#com.example.azkarelmoslem.sam11_7
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:150:9-153:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:152:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:153:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:151:13-36
+activity#com.example.azkarelmoslem.mawlod10_7
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:154:9-157:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:156:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:157:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:155:13-39
+activity#com.example.azkarelmoslem.habak9_7
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:158:9-161:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:160:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:161:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:159:13-37
+activity#com.example.azkarelmoslem.malah8_7
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:162:9-165:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:164:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:165:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:163:13-37
+activity#com.example.azkarelmoslem.kada7_7
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:166:9-169:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:168:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:169:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:167:13-36
+activity#com.example.azkarelmoslem.barak6_7
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:170:9-173:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:172:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:173:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:171:13-37
+activity#com.example.azkarelmoslem.kafer5_7
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:174:9-177:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:176:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:177:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:175:13-37
+activity#com.example.azkarelmoslem.salam4_7
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:178:9-181:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:180:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:181:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:179:13-37
+activity#com.example.azkarelmoslem.sab3_7
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:182:9-185:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:184:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:185:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:183:13-35
+activity#com.example.azkarelmoslem.madh2_7
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:186:9-189:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:188:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:189:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:187:13-36
+activity#com.example.azkarelmoslem.eza1_7
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:190:9-193:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:192:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:193:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:191:13-35
+activity#com.example.azkarelmoslem.dafn13_6
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:194:9-197:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:196:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:197:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:195:13-37
+activity#com.example.azkarelmoslem.edkal12_6
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:198:9-201:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:200:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:201:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:199:13-38
+activity#com.example.azkarelmoslem.tazya11_6
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:202:9-205:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:204:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:205:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:203:13-38
+activity#com.example.azkarelmoslem.fart10_6
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:206:9-209:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:208:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:209:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:207:13-37
+activity#com.example.azkarelmoslem.asna9_6
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:210:9-213:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:212:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:213:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:211:13-36
+activity#com.example.azkarelmoslem.egmad8_6
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:214:9-217:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:216:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:217:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:215:13-37
+activity#com.example.azkarelmoslem.talken7_6
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:218:9-221:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:220:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:221:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:219:13-38
+activity#com.example.azkarelmoslem.yaes6_6
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:222:9-225:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:224:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:225:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:223:13-36
+activity#com.example.azkarelmoslem.zmaryd5_6
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:226:9-229:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:228:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:229:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:227:13-38
+activity#com.example.azkarelmoslem.maryd4_6
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:230:9-233:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:232:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:233:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:231:13-37
+activity#com.example.azkarelmoslem.yaoz3_6
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:234:9-237:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:236:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:237:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:235:13-36
+activity#com.example.azkarelmoslem.zyara2_6
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:238:9-241:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:240:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:241:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:239:13-37
+activity#com.example.azkarelmoslem.alam1_6
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:242:9-245:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:244:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:245:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:243:13-36
+activity#com.example.azkarelmoslem.ham15_5
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:246:9-249:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:248:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:249:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:247:13-36
+activity#com.example.azkarelmoslem.karb14_5
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:250:9-253:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:252:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:253:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:251:13-37
+activity#com.example.azkarelmoslem.soltan13_5
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:254:9-257:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:256:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:257:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:255:13-39
+activity#com.example.azkarelmoslem.zolm12_5
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:258:9-261:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:260:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:261:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:259:13-37
+activity#com.example.azkarelmoslem.adw11_5
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:262:9-265:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:264:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:265:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:263:13-36
+activity#com.example.azkarelmoslem.kaf10_5
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:266:9-269:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:268:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:269:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:267:13-36
+activity#com.example.azkarelmoslem.kar9_5
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:270:9-273:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:272:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:273:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:271:13-35
+activity#com.example.azkarelmoslem.sar8_5
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:274:9-277:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:276:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:277:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:275:13-35
+activity#com.example.azkarelmoslem.yosr7_5
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:278:9-281:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:280:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:281:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:279:13-36
+activity#com.example.azkarelmoslem.endfazah6_5
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:282:9-285:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:284:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:285:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:283:13-40
+activity#com.example.azkarelmoslem.tyar5_5
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:286:9-289:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:288:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:289:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:287:13-36
+activity#com.example.azkarelmoslem.sherk4_5
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:290:9-293:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:292:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:293:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:291:13-37
+activity#com.example.azkarelmoslem.wes3_5
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:294:9-297:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:296:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:297:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:295:13-35
+activity#com.example.azkarelmoslem.mosyba2_5
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:298:9-301:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:300:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:301:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:299:13-38
+activity#com.example.azkarelmoslem.kadal1_5
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:302:9-305:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:304:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:305:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:303:13-37
+activity#com.example.azkarelmoslem.hogg
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:306:9-309:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:308:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:309:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:307:13-33
+activity#com.example.azkarelmoslem.zabh8_4
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:310:9-313:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:312:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:313:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:311:13-36
+activity#com.example.azkarelmoslem.ramy7_4
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:314:9-317:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:316:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:317:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:315:13-36
+activity#com.example.azkarelmoslem.mashar6_4
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:318:9-321:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:320:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:321:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:319:13-38
+activity#com.example.azkarelmoslem.arafa5_4
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:322:9-325:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:324:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:325:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:323:13-37
+activity#com.example.azkarelmoslem.wakoof4_4
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:326:9-329:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:328:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:329:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:327:13-38
+activity#com.example.azkarelmoslem.rokn3_4
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:330:9-333:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:332:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:333:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:331:13-36
+activity#com.example.azkarelmoslem.takbeer2_4
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:334:9-337:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:336:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:337:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:335:13-39
+activity#com.example.azkarelmoslem.kayf1_4
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:338:9-341:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:340:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:341:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:339:13-36
+activity#com.example.azkarelmoslem.lamyaftor7_3
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:342:9-345:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:344:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:345:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:343:13-41
+activity#com.example.azkarelmoslem.endahl6_3
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:346:9-349:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:348:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:349:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:347:13-38
+activity#com.example.azkarelmoslem.tareed5_3
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:350:9-353:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:352:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:353:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:351:13-38
+activity#com.example.azkarelmoslem.lesaheb4_3
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:354:9-357:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:356:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:357:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:355:13-39
+activity#com.example.azkarelmoslem.bad3_3
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:358:9-361:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:360:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:361:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:359:13-35
+activity#com.example.azkarelmoslem.kabl2_3
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:362:9-365:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:364:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:365:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:363:13-36
+activity#com.example.azkarelmoslem.end1_3
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:366:9-369:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:368:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:369:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:367:13-35
+activity#com.example.azkarelmoslem.Waswasa
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:370:9-373:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:372:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:373:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:371:13-36
+activity#com.example.azkarelmoslem.AfterWetr
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:374:9-377:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:376:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:377:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:375:13-38
+activity#com.example.azkarelmoslem.Konot
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:378:9-381:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:380:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:381:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:379:13-34
+activity#com.example.azkarelmoslem.AfterSalam
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:382:9-385:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:384:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:385:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:383:13-39
+activity#com.example.azkarelmoslem.naby
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:386:9-389:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:388:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:389:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:387:13-33
+activity#com.example.azkarelmoslem.BA
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:390:9-393:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:392:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:393:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:391:13-31
+activity#com.example.azkarelmoslem.tashahod
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:394:9-397:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:396:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:397:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:395:13-37
+activity#com.example.azkarelmoslem.sagdatelawa
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:398:9-401:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:400:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:401:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:399:13-40
+activity#com.example.azkarelmoslem.galsa
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:402:9-405:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:404:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:405:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:403:13-34
+activity#com.example.azkarelmoslem.sogod
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:406:9-409:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:408:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:409:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:407:13-34
+activity#com.example.azkarelmoslem.rafarokoa
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:410:9-413:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:412:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:413:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:411:13-38
+activity#com.example.azkarelmoslem.rokoa
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:414:9-417:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:416:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:417:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:415:13-34
+activity#com.example.azkarelmoslem.start
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:418:9-421:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:420:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:421:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:419:13-34
+activity#com.example.azkarelmoslem.azan
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:422:9-425:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:424:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:425:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:423:13-33
+activity#com.example.azkarelmoslem.korogmasged
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:426:9-429:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:428:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:429:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:427:13-40
+activity#com.example.azkarelmoslem.dokolmasged
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:430:9-433:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:432:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:433:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:431:13-40
+activity#com.example.azkarelmoslem.gomasged
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:434:9-437:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:436:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:437:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:435:13-37
+activity#com.example.azkarelmoslem.aftersala3
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:438:9-441:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:440:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:441:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:439:13-39
+activity#com.example.azkarelmoslem.aftersala2
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:442:9-445:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:444:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:445:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:443:13-39
+activity#com.example.azkarelmoslem.aftersala1
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:446:9-449:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:448:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:449:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:447:13-39
+activity#com.example.azkarelmoslem.beforesala
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:450:9-453:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:452:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:453:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:451:13-39
+activity#com.example.azkarelmoslem.takalap
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:454:9-457:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:456:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:457:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:455:13-36
+activity#com.example.azkarelmoslem.fazah
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:458:9-461:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:460:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:461:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:459:13-34
+activity#com.example.azkarelmoslem.sleep13
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:462:9-465:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:464:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:465:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:463:13-36
+activity#com.example.azkarelmoslem.sleep12
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:466:9-469:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:468:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:469:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:467:13-36
+activity#com.example.azkarelmoslem.sleep11
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:470:9-473:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:472:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:473:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:471:13-36
+activity#com.example.azkarelmoslem.sleeo10
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:474:9-477:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:476:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:477:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:475:13-36
+activity#com.example.azkarelmoslem.sleep9
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:478:9-481:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:480:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:481:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:479:13-35
+activity#com.example.azkarelmoslem.sleep8
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:482:9-485:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:484:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:485:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:483:13-35
+activity#com.example.azkarelmoslem.sleep7
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:486:9-489:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:488:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:489:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:487:13-35
+activity#com.example.azkarelmoslem.sleep6
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:490:9-493:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:492:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:493:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:491:13-35
+activity#com.example.azkarelmoslem.sleep5
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:494:9-497:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:496:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:497:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:495:13-35
+activity#com.example.azkarelmoslem.sleep4
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:498:9-501:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:500:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:501:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:499:13-35
+activity#com.example.azkarelmoslem.sleep3
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:502:9-505:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:504:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:505:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:503:13-35
+activity#com.example.azkarelmoslem.sleep2
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:506:9-509:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:508:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:509:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:507:13-35
+activity#com.example.azkarelmoslem.Sleep1
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:510:9-513:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:512:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:513:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:511:13-35
+activity#com.example.azkarelmoslem.noom4
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:514:9-517:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:516:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:517:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:515:13-34
+activity#com.example.azkarelmoslem.noom3
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:518:9-521:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:520:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:521:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:519:13-34
+activity#com.example.azkarelmoslem.noom2
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:522:9-525:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:524:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:525:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:523:13-34
+activity#com.example.azkarelmoslem.noom1
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:526:9-529:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:528:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:529:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:527:13-34
+activity#com.example.azkarelmoslem.sabah26
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:530:9-533:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:532:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:533:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:531:13-36
+activity#com.example.azkarelmoslem.sabah25
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:534:9-537:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:536:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:537:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:535:13-36
+activity#com.example.azkarelmoslem.sabah24
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:538:9-541:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:540:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:541:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:539:13-36
+activity#com.example.azkarelmoslem.sabah23
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:542:9-545:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:544:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:545:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:543:13-36
+activity#com.example.azkarelmoslem.sabah22
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:546:9-549:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:548:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:549:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:547:13-36
+activity#com.example.azkarelmoslem.sabah21
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:550:9-553:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:552:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:553:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:551:13-36
+activity#com.example.azkarelmoslem.sabah20
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:554:9-557:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:556:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:557:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:555:13-36
+activity#com.example.azkarelmoslem.sabah19
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:559:9-562:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:561:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:562:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:560:13-36
+activity#com.example.azkarelmoslem.sabah18
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:563:9-566:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:565:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:566:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:564:13-36
+activity#com.example.azkarelmoslem.sabah17
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:567:9-570:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:569:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:570:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:568:13-36
+activity#com.example.azkarelmoslem.sabah16
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:571:9-574:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:573:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:574:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:572:13-36
+activity#com.example.azkarelmoslem.sabah15
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:575:9-578:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:577:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:578:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:576:13-36
+activity#com.example.azkarelmoslem.sabah14
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:579:9-582:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:581:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:582:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:580:13-36
+activity#com.example.azkarelmoslem.sabah13
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:583:9-586:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:585:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:586:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:584:13-36
+activity#com.example.azkarelmoslem.sabah12
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:587:9-590:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:589:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:590:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:588:13-36
+activity#com.example.azkarelmoslem.sabah11
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:591:9-594:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:593:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:594:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:592:13-36
+activity#com.example.azkarelmoslem.sabah10
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:595:9-598:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:597:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:598:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:596:13-36
+activity#com.example.azkarelmoslem.sabah9
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:599:9-602:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:601:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:602:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:600:13-35
+activity#com.example.azkarelmoslem.sabah8
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:603:9-606:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:605:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:606:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:604:13-35
+activity#com.example.azkarelmoslem.sabah7
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:607:9-610:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:609:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:610:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:608:13-35
+activity#com.example.azkarelmoslem.sabah_5
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:611:9-614:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:613:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:614:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:612:13-36
+activity#com.example.azkarelmoslem.sabah6
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:615:9-618:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:617:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:618:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:616:13-35
+activity#com.example.azkarelmoslem.sabah_4
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:619:9-622:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:621:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:622:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:620:13-36
+activity#com.example.azkarelmoslem.sabah_3
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:623:9-626:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:625:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:626:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:624:13-36
+activity#com.example.azkarelmoslem.sabah_2
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:627:9-630:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:629:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:630:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:628:13-36
+activity#com.example.azkarelmoslem.Sabah_1
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:631:9-634:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:633:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:634:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:632:13-36
+activity#com.example.azkarelmoslem.AboutUs
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:635:9-638:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:637:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:638:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:636:13-36
+activity#com.example.azkarelmoslem.AzkarSabah1
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:639:9-642:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:641:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:642:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:640:13-40
+activity#com.example.azkarelmoslem.Hasad
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:643:9-646:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:645:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:646:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:644:13-34
+activity#com.example.azkarelmoslem.travell
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:647:9-650:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:649:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:650:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:648:13-36
+activity#com.example.azkarelmoslem.Deal
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:651:9-654:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:653:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:654:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:652:13-33
+activity#com.example.azkarelmoslem.Patient
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:655:9-658:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:657:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:658:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:656:13-36
+activity#com.example.azkarelmoslem.Smile
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:659:9-662:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:661:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:662:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:660:13-34
+activity#com.example.azkarelmoslem.Food
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:663:9-666:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:665:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:666:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:664:13-33
+activity#com.example.azkarelmoslem.Welcome
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:667:9-677:20
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:670:13-49
+	android:configChanges
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:669:13-47
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:671:12-68
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:668:13-36
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:672:13-676:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:673:17-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:673:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:675:17-77
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:675:27-74
+activity#com.example.azkarelmoslem.Water
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:678:9-681:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:680:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:681:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:679:13-34
+activity#com.example.azkarelmoslem.Morning
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:682:9-685:71
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:684:13-49
+	android:theme
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:685:13-69
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:683:13-36
+activity#com.example.azkarelmoslem.MainActivity
+ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:686:9-688:52
+	android:screenOrientation
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:688:13-49
+	android:name
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml:687:13-41
+uses-sdk
+INJECTED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\ea88890b09526096266c9c16859169ae\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\ea88890b09526096266c9c16859169ae\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\cb3ee0668a2ccffbec6ced598c9d8e79\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\cb3ee0668a2ccffbec6ced598c9d8e79\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\749c232115217351c91aa74c2d78bd12\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\749c232115217351c91aa74c2d78bd12\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\936ebbfdaa20b5d2513f45ef5b9bca61\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\936ebbfdaa20b5d2513f45ef5b9bca61\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\184c984507bae6d54ce89a1b39416d6f\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\184c984507bae6d54ce89a1b39416d6f\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\3ef529e7659a6dad5bca87ebe763f091\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\3ef529e7659a6dad5bca87ebe763f091\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\1a7929ea79abc37513892fc022245291\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\1a7929ea79abc37513892fc022245291\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\b17763bf98edbd30968b64ebcbc4e5fe\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\b17763bf98edbd30968b64ebcbc4e5fe\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\ddc93cc7f56536b57b7e686942c96acd\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\ddc93cc7f56536b57b7e686942c96acd\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\6142cc34fd4a481411a6571034684118\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\6142cc34fd4a481411a6571034684118\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\1e40e6425c76c059bfb4b3234ce21463\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\1e40e6425c76c059bfb4b3234ce21463\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\da95e0dd41fd0c634661df2a0f122634\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\da95e0dd41fd0c634661df2a0f122634\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\2f8d1ed6722dd8ec027727976d721a74\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\2f8d1ed6722dd8ec027727976d721a74\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\f4e6f5083e31829c93f71953ffc4081f\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\f4e6f5083e31829c93f71953ffc4081f\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\27eaecc8cd0861d0e6bd94d2c9649bb6\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\27eaecc8cd0861d0e6bd94d2c9649bb6\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\209f2f473926ace7290783e8147519fd\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\209f2f473926ace7290783e8147519fd\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\9f18933e18a2883724525a09a9c7e2bc\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\9f18933e18a2883724525a09a9c7e2bc\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\2e208f9141563db79bd49ce93534ac4d\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\2e208f9141563db79bd49ce93534ac4d\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\1e517e060e22e5750a896c56d451ab07\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\1e517e060e22e5750a896c56d451ab07\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\8909bb9e572b85a1aed6ea82735a7b78\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\8909bb9e572b85a1aed6ea82735a7b78\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\2541981a540b257b4ca2e11e0b5e803f\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Abdullah Amin\.gradle\caches\transforms-2\files-2.1\2541981a540b257b4ca2e11e0b5e803f\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Abdullah Amin\Downloads\mm\--master\app\src\main\AndroidManifest.xml

@@ -67,6 +67,7 @@ public class ProductsDBHelper extends SQLiteOpenHelper {
         // after adding all values we are passing
         // content values to our table.
         db.insert(DBConst.TABLE_NAME, null, values);
+        Toast.makeText(context, "Product added successfully", Toast.LENGTH_SHORT).show();
 
         Log.i("abdo", "addNewProduct: inserted");
 

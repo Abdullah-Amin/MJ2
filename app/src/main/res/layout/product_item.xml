@@ -8,47 +8,65 @@
     app:cardCornerRadius="@dimen/_15sdp"
     app:cardElevation="@dimen/_5sdp">
 
-    <LinearLayout
-        android:id="@+id/image"
+    <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:orientation="vertical"
-        android:gravity="bottom"
-        android:background="@drawable/meat_image">
+        android:layout_height="@dimen/_200sdp">
 
-        <TextView
-            android:id="@+id/name"
-            android:layout_width="wrap_content"
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_200sdp"
+            android:src="@drawable/upload"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginStart="@dimen/_5sdp"
-            android:text="Meat"
-            android:textColor="@color/black"
-            android:textStyle="bold"
-            android:textSize="@dimen/_16ssp"/>
+            android:orientation="vertical"
+            android:gravity="bottom"
+            app:layout_constraintBottom_toBottomOf="@+id/image"
+            app:layout_constraintStart_toStartOf="@+id/image">
 
-        <TextView
-            android:id="@+id/description"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="@dimen/_5sdp"
-            android:text="MeatMeatMeatMeatMeatMeatMeatMeatMeat"
-            android:minLines="2"
-            android:maxWidth="@dimen/_150sdp"
-            android:textColor="#C3000000"
-            android:textStyle="bold"
-            android:textSize="@dimen/_14ssp"/>
+            <TextView
+                android:id="@+id/name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_5sdp"
+                android:text="Meat"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:textSize="@dimen/_16ssp"/>
 
-        <TextView
-            android:id="@+id/price"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="@dimen/_5sdp"
-            android:layout_marginBottom="@dimen/_5sdp"
-            android:text="550"
-            android:textColor="@color/black"
-            android:textStyle="bold"
-            android:textSize="@dimen/_14ssp"/>
+            <TextView
+                android:id="@+id/description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_5sdp"
+                android:text="MeatMeatMeatMeatMeatMeatMeatMeatMeat"
+                android:ellipsize="end"
+                android:minLines="2"
+                android:maxWidth="@dimen/_140sdp"
+                android:textColor="#C3000000"
+                android:textStyle="bold"
+                android:textSize="@dimen/_14ssp"/>
 
-    </LinearLayout>
+            <TextView
+                android:id="@+id/price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_5sdp"
+                android:layout_marginBottom="@dimen/_5sdp"
+                android:text="550"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:textSize="@dimen/_14ssp"/>
+
+        </LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
 
 </com.google.android.material.card.MaterialCardView>

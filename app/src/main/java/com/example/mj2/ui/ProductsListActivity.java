@@ -52,7 +52,7 @@ public class ProductsListActivity extends AppCompatActivity {
         }else{
             while (cursor.moveToNext()){
                 Log.i("abdo", "getDataFromDatabase: "+ cursor.getString(1) + cursor.getString(3) + cursor.getString(4));
-                products.add(new Product(cursor.getString(1), cursor.getString(3), cursor.getString(4)));
+                products.add(new Product(cursor.getBlob(2), cursor.getString(1), cursor.getString(3), cursor.getString(4)));
             }
         }
     }

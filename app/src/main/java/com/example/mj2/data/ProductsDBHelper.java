@@ -5,12 +5,18 @@ import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
+import android.graphics.Bitmap;
 import android.util.Log;
 import android.widget.Toast;
 
 import androidx.annotation.Nullable;
 
 import com.example.mj2.constants.DBConst;
+
+import java.io.ByteArrayOutputStream;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
 
 public class ProductsDBHelper extends SQLiteOpenHelper {
 
@@ -22,17 +28,11 @@ public class ProductsDBHelper extends SQLiteOpenHelper {
 
     @Override
     public void onCreate(SQLiteDatabase db) {
-//        String sql = "CREATE TABLE " + DBConst.TABLE_NAME + " (" +
-//                DBConst.ID + " INTEGER PRIMARY KEY AUTOINCREMENT, " +
-//                DBConst.PRODUCT_NAME + " TEXT, " +
-//                DBConst.IMAGE + " INTEGER, " +
-//                DBConst.DESCRIPTION + " TEXT, " +
-//                DBConst.PRICE + " INTEGER)";
 
         String sql = "CREATE TABLE PRODUCTS (" +
                 "ID INTEGER PRIMARY KEY AUTOINCREMENT, " +
                 " PRODUCT_NAME TEXT, " +
-                " IMAGE INTEGER, " +
+                " IMAGE BLOB, " +
                 " DESCRIPTION TEXT, " +
                 " PRICE TEXT)";
 
@@ -45,7 +45,7 @@ public class ProductsDBHelper extends SQLiteOpenHelper {
         onCreate(db);
     }
 
-    public void addNewProduct(String productName, Integer image, String description, String price) {
+    public void addNewProduct(String productName, Bitmap image, String description, String price) throws IOException {
 
         Log.i("abdo", "addNewProduct: inserting");
         // on below line we are creating a variable for
@@ -57,10 +57,14 @@ public class ProductsDBHelper extends SQLiteOpenHelper {
         // variable for content values.
         ContentValues values = new ContentValues();
 
+        ByteArrayOutputStream imageStream = new ByteArrayOutputStream();
+        image.compress(Bitmap.CompressFormat.PNG, 100, imageStream);
+        byte[] imageInByte = imageStream.toByteArray();
+
         // on below line we are passing all values
         // along with its key and value pair.
         values.put("PRODUCT_NAME", productName);
-        values.put(String.valueOf("IMAGE"), image);
+        values.put("IMAGE", imageInByte);
         values.put("DESCRIPTION", description);
         values.put("PRICE", price);
 
@@ -73,7 +77,7 @@ public class ProductsDBHelper extends SQLiteOpenHelper {
 
         // at last we are closing our
         // database after adding database.
-//        db.close();
+        db.close();
     }
 
     public Cursor readAllData(){

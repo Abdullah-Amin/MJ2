@@ -9,6 +9,13 @@
     android:background="@drawable/primary_gradient"
     tools:context=".ui.AddProductsActivity">
 
+    <ImageView
+        android:id="@+id/productImage"
+        android:onClick="uploadImage"
+        android:layout_width="@dimen/_200sdp"
+        android:layout_height="@dimen/_200sdp"
+        android:src="@drawable/upload"
+        android:layout_marginBottom="@dimen/_6sdp"/>
 
     <EditText
         android:id="@+id/nameET"

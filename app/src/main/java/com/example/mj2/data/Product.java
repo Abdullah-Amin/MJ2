@@ -4,14 +4,24 @@ import java.io.Serializable;
 
 public class Product implements Serializable {
 
+    private byte[] productImage;
     private String productName;
     private String productDescription;
     private String productPrice;
 
-    public Product(String productName, String productDescription, String productPrice) {
+    public Product(byte[] productImage, String productName, String productDescription, String productPrice) {
+        this.productImage = productImage;
         this.productName = productName;
         this.productDescription = productDescription;
         this.productPrice = productPrice;
+    }
+
+    public byte[] getProductImage() {
+        return productImage;
+    }
+
+    public void setProductImage(byte[] productImage) {
+        this.productImage = productImage;
     }
 
     public String getProductName() {

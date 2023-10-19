@@ -2,6 +2,7 @@ package com.example.mj2.data;
 
 import android.content.ContentValues;
 import android.content.Context;
+import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.util.Log;
@@ -67,11 +68,21 @@ public class ProductsDBHelper extends SQLiteOpenHelper {
         // content values to our table.
         db.insert(DBConst.TABLE_NAME, null, values);
 
-
         Log.i("abdo", "addNewProduct: inserted");
 
         // at last we are closing our
         // database after adding database.
 //        db.close();
+    }
+
+    public Cursor readAllData(){
+        String query = "SELECT * FROM PRODUCTS";
+        SQLiteDatabase db = this.getReadableDatabase();
+
+        Cursor cursor = null;
+        if (db != null){
+            cursor = db.rawQuery(query, null);
+        }
+        return cursor;
     }
 }

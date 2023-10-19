@@ -21,7 +21,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <com.google.android.material.button.MaterialButton
-        android:id="@+id/registerBtn"
+        android:id="@+id/userAccountBtn"
         android:onClick="goToUserAccount"
         android:layout_width="@dimen/_180sdp"
         android:layout_height="wrap_content"
@@ -31,6 +31,34 @@
         android:layout_marginTop="@dimen/_16sdp"
         android:paddingVertical="@dimen/_10sdp"
         android:text="go to user account"
+        android:textSize="@dimen/_12ssp"
+        android:textColor="@color/white"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/productsListBtn"
+        android:onClick="goToProductsList"
+        android:layout_width="@dimen/_180sdp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/second_color"
+        app:cornerRadius="@dimen/_18sdp"
+        android:layout_marginHorizontal="@dimen/_10sdp"
+        android:layout_marginTop="@dimen/_16sdp"
+        android:paddingVertical="@dimen/_10sdp"
+        android:text="go to products list"
+        android:textSize="@dimen/_12ssp"
+        android:textColor="@color/white"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/addProductsBtn"
+        android:onClick="goToAddProducts"
+        android:layout_width="@dimen/_180sdp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/second_color"
+        app:cornerRadius="@dimen/_18sdp"
+        android:layout_marginHorizontal="@dimen/_10sdp"
+        android:layout_marginTop="@dimen/_16sdp"
+        android:paddingVertical="@dimen/_10sdp"
+        android:text="go to add products"
         android:textSize="@dimen/_12ssp"
         android:textColor="@color/white"/>
 

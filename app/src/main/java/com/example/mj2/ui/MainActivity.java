@@ -26,4 +26,12 @@ public class MainActivity extends AppCompatActivity {
         startActivity(new Intent(this, LoginActivity.class));
         finish();
     }
+
+    public void goToProductsList(View view) {
+        startActivity(new Intent(this, ProductsListActivity.class));
+    }
+
+    public void goToAddProducts(View view) {
+        startActivity(new Intent(this, AddProductsActivity.class));
+    }
 }

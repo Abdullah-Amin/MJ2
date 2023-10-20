@@ -73,6 +73,8 @@ public class RegisterActivity extends AppCompatActivity {
     }
 
     public void backToLoginPage(View view) {
+        startActivity(new Intent(this, LoginActivity.class));
+        finish();
     }
 
     public boolean isValidPassword(final String password) {
@@ -84,7 +86,7 @@ public class RegisterActivity extends AppCompatActivity {
                 "(?=.*[0-9])" +
                 "(?=.*[a-z])" +
                 "(?=.*[A-Z])" +
-                "(?=.*[@#$_%^&+=-])" +
+                "(?=.*[@#$_!%^&+=-])" +
                 "(?=\\S+$).{8,}$";
 
         pattern = Pattern.compile(PASSWORD_PATTERN);

@@ -17,7 +17,6 @@
         android:orientation="vertical"
         app:layoutManager="androidx.recyclerview.widget.GridLayoutManager"
         app:spanCount="2"
-
         tools:itemCount="20"/>
 
 </LinearLayout>

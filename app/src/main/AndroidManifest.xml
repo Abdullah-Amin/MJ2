@@ -27,14 +27,12 @@
         <activity
             android:name=".ui.ProductsListActivity"
             android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
 
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity>
-        <activity
-            android:name=".ui.ProductDetailsActivity"
-            android:exported="false" />
-        <activity
-            android:name=".ui.ProductsActivity"
-            android:exported="false" />
         <activity
             android:name=".ui.UserAccountActivity"
             android:exported="false" />
@@ -44,11 +42,13 @@
         <activity
             android:name=".ui.LoginActivity"
             android:exported="true">
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+
         </activity>
         <activity
             android:name=".ui.MainActivity"

@@ -18,6 +18,7 @@ import com.google.android.material.button.MaterialButton;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
+import com.google.firebase.ktx.Firebase;
 
 public class LoginActivity extends AppCompatActivity {
 
@@ -45,12 +46,12 @@ public class LoginActivity extends AppCompatActivity {
             view.setEnabled(false);
             MaterialButton btn = findViewById(R.id.loginBtn);
             btn.setTextColor(Color.GRAY);
-            Toast.makeText(this, "Login os disabled", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Login is disabled", Toast.LENGTH_SHORT).show();
         }
         String email = emailET.getText().toString().trim();
         String password = passwordET.getText().toString().trim();
 
-        //password = Asdfghjkl;'1_
+
         if (email.isEmpty() || password.isEmpty()){
             Toast.makeText(this, "Fields can not be empty", Toast.LENGTH_SHORT).show();
             return;

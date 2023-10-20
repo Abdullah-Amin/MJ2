@@ -4,15 +4,15 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.annotation.SuppressLint;
-import android.content.Intent;
 import android.database.Cursor;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
 import android.os.Bundle;
 import android.util.Log;
 import android.widget.Toast;
 
 import com.example.mj2.R;
 import com.example.mj2.adapters.ProductAdapter;
-import com.example.mj2.callbacks.ProductsI;
 import com.example.mj2.data.Product;
 import com.example.mj2.data.ProductsDBHelper;
 
@@ -33,14 +33,7 @@ public class ProductsListActivity extends AppCompatActivity {
         products = new ArrayList<>();
 
         getDataFromDatabase();
-        recyclerView.setAdapter(new ProductAdapter(products, new ProductsI() {
-            @Override
-            public void getProduct(Product product) {
-                Intent intent = new Intent(ProductsListActivity.this, ProductsActivity.class);
-                intent.putExtra("product", product);
-                startActivity(intent);
-            }
-        }));
+        recyclerView.setAdapter(new ProductAdapter(products));
 
     }
 
@@ -52,7 +45,8 @@ public class ProductsListActivity extends AppCompatActivity {
         }else{
             while (cursor.moveToNext()){
                 Log.i("abdo", "getDataFromDatabase: "+ cursor.getString(1) + cursor.getString(3) + cursor.getString(4));
-                products.add(new Product(cursor.getBlob(2), cursor.getString(1), cursor.getString(3), cursor.getString(4)));
+                Bitmap bitmap = BitmapFactory.decodeByteArray(cursor.getBlob(2), 0, cursor.getBlob(2).length);
+                products.add(new Product(bitmap, cursor.getString(1), cursor.getString(3), cursor.getString(4)));
             }
         }
     }

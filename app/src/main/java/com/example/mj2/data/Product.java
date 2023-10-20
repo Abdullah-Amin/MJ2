@@ -1,26 +1,33 @@
 package com.example.mj2.data;
 
+import android.graphics.Bitmap;
+import android.os.Build;
+import android.os.Parcel;
+import android.os.Parcelable;
+
+import androidx.annotation.NonNull;
+
 import java.io.Serializable;
 
-public class Product implements Serializable {
+public class Product implements Serializable{
 
-    private byte[] productImage;
+    private Bitmap productImage;
     private String productName;
     private String productDescription;
     private String productPrice;
 
-    public Product(byte[] productImage, String productName, String productDescription, String productPrice) {
+    public Product(Bitmap productImage, String productName, String productDescription, String productPrice) {
         this.productImage = productImage;
         this.productName = productName;
         this.productDescription = productDescription;
         this.productPrice = productPrice;
     }
 
-    public byte[] getProductImage() {
+    public Bitmap getProductImage() {
         return productImage;
     }
 
-    public void setProductImage(byte[] productImage) {
+    public void setProductImage(Bitmap productImage) {
         this.productImage = productImage;
     }
 
